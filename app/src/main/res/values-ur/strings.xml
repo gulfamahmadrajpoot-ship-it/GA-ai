@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">جی اے اے آئی</string>
+    <string name="tagline">تخلیقی اے آئی اسٹوڈیو</string>
+    <string name="tab_image">تصویر</string>
+    <string name="tab_video">ویڈیو</string>
+    <string name="tab_prompt_builder">پرامپٹ</string>
+    <string name="tab_creations">تخلیقات</string>
+    <string name="tab_profile">پروفائل</string>
+</resources>

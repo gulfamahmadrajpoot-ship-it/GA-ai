@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GA AI</string>
+    <string name="tagline">Creative AI Studio</string>
+    <string name="tab_image">Image</string>
+    <string name="tab_video">Video</string>
+    <string name="tab_prompt_builder">Prompt</string>
+    <string name="tab_creations">Creations</string>
+    <string name="tab_profile">Profile</string>
+</resources>
